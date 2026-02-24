@@ -1,11 +1,11 @@
 # database-for-JOWABOT3.2
 it's ```database``` for BOT named JOWABOT3.2 it's Open Source(```MIT```) database by json file
 
-#1-
+## 1-
 # *why we need this database ?*
 *to provide to have open source database for Ai or BOT*
 
-#2-
+## 2-
 example for the ```database```:
 ```json
 {
@@ -18,7 +18,7 @@ example for the ```database```:
 }
 
 ```
-#3-
+## 3-
 BOT code with ```github *database* ``` for "./jowabot_internet_db.py" :
 ```python
 # it's JOWABOT3.2
@@ -141,11 +141,12 @@ if __name__ == "__main__":
             bot.ask_question(user_input)
 
 ```
-#4-
+## 4-
 #Installation
-#1.
+# 1.
 _install raw file jowabot_internet_db.py_
-#2.
+# 2.
+
 _in Terminal write:_
 ```bash
 pip install requests
