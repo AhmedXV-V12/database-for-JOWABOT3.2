@@ -3,7 +3,7 @@ it's ```database``` for BOT named JOWABOT3.2 it's Open Source(```MIT```) databas
 
 ## 1-
 # *why we need this database ?*
-*to provide to have open source database for Ai or BOT*
+*to provide to have open source database for Ai and BOT*
 
 ## 2-
 example for the ```database```:
