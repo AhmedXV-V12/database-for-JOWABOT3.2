@@ -1,8 +1,8 @@
 {
-  "Hi" : "Hello What are you need ?",                                       #_____________________________________
-  "whats your name ?" : "My name is JOWABOT3.2 , are you need any help ?",  #       database for the bot          |
-  "How are you ?" : "I am fine , thanks for asking",                        #_____________________________________|
-  "why the bnanna crying ?" : "Because it was in peel",  # Bad joke :D
-  "what is the meaning of life ?" : "The meaning of life is 42", # Another bad joke :D
+  "Hi" : "Hello What are you need ?",                                      
+  "whats your name ?" : "My name is JOWABOT3.2 , are you need any help ?",  
+  "How are you ?" : "I am fine , thanks for asking",                        
+  "why the bnanna crying ?" : "Because it was in peel",  
+  "what is the meaning of life ?" : "The meaning of life is 42", 
   "bye" : "Goodbye , see you later"
 } 
