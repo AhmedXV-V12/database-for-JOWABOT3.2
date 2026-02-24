@@ -143,11 +143,8 @@ if __name__ == "__main__":
 ```
 ## 4-
 #Installation
-# 1.
-_install raw file jowabot_internet_db.py_
-# 2.
-
-_in Terminal write:_
+# 1._install raw file jowabot_internet_db.py_
+# 2._in Terminal write:_
 ```bash
 pip install requests
 ```
